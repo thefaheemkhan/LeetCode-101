@@ -1,2 +1,2 @@
-# Python101
-all about python webdev, ai, ml, cybersecurity, etc
+# LeetCode 101
+All about leet code questions.
